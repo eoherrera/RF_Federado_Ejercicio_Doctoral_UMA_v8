@@ -155,7 +155,7 @@ Esto no es un error en el código, pero sí es una limitación del diseño de la
 
 ---
 
-## Conexión con la línea de la Prof. Gago
+## Pregunta abierta que queda del ejercicio
 
 Una vez que V_i existe como indicador por ronda, surge una pregunta que no tiene respuesta todavía: ¿es posible detectar que un nodo está empezando a degradarse antes de que eso afecte el rendimiento del modelo global, y sin centralizar los datos de nadie?
 
