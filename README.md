@@ -178,7 +178,7 @@ Eso es exactamente lo que investiga el NICS Lab en gobernanza de IA y detección
 | Código | Repositorio | Contenido |
 |--------|-------------|-----------|
 | EJD-UMA-001 | Este repositorio | Random Forest Federado con Fed-TRUST v8.0 |
-| EJD-UMA-002 | TED_MDS_Ejercicio_Doctoral_UMA | Tree Edit Distance y proyección MDS |
+| EJD-UMA-002 | [TED_MDS_Ejercicio_Doctoral_UMA](https://github.com/eoherrera/TED_MDS_Ejercicio_Doctoral_UMA) | Tree Edit Distance y proyección MDS |
 
 ---
 
