@@ -14,7 +14,7 @@
 
 ---
 
-## ¿De qué trata este ejercicio?
+## Objetivo
 
 Este notebook es una extensión exploratoria del ejercicio EJD-UMA-001, que originalmente pedía comparar distintas configuraciones de Random Forest en un entorno federado usando el dataset NSL-KDD.
 
@@ -26,7 +26,7 @@ Esta versión intenta dar un primer paso hacia ese problema, introduciendo un me
 
 ---
 
-## ¿Qué es Fed-TRUST?
+## Que es Fed-TRUST
 
 La idea central es simple: en lugar de que todos los nodos aporten igual al modelo global, cada nodo aporta en función de qué tan confiable parece ser su comportamiento.
 
@@ -41,7 +41,7 @@ Un nodo con V_i alto es más confiable y pesa más en el modelo final. Uno con V
 
 ---
 
-## ¿Cómo funciona paso a paso?
+## Como funciona paso a paso
 
 ```mermaid
 flowchart TD
@@ -67,7 +67,7 @@ flowchart TD
 
 ---
 
-## Historia de versiones
+## Control de cambios
 
 | Versión | Fecha | Qué se agregó |
 |---------|-------|---------------|
@@ -177,8 +177,11 @@ Eso es exactamente lo que investiga el NICS Lab en gobernanza de IA y detección
 
 | Código | Repositorio | Contenido |
 |--------|-------------|-----------|
-| EJD-UMA-001 | Este repositorio | Random Forest Federado con Fed-TRUST v8.0 |
-| EJD-UMA-002 | [TED_MDS_Ejercicio_Doctoral_UMA](https://github.com/eoherrera/TED_MDS_Ejercicio_Doctoral_UMA) | Tree Edit Distance y proyección MDS |
+| EJD-UMA-001 | [RF_Federado_Ejercicio_Doctoral_UMA](https://github.com/eoherrera/RF_Federado_Ejercicio_Doctoral_UMA) | Random Forest Federado, comparativa de configuraciones |
+| EJD-UMA-001 v8.0 | Este repositorio | Fed-TRUST: Coeficiente de Veracidad V_i y agregacion ponderada |
+| EJD-UMA-002 | [TED_MDS_Ejercicio_Doctoral_UMA](https://github.com/eoherrera/TED_MDS_Ejercicio_Doctoral_UMA) | Tree Edit Distance y proyeccion MDS |
+| EJD-UMA-003 | [EJD_UMA_003_NaiveBayes_Federado](https://github.com/eoherrera/EJD_UMA_003_NaiveBayes_Federado) | Clasificador Naive Bayes Federado con mezcla de distribuciones |
+| EJD-UMA-003 v7.1 | [EJD_UMA_003_Variables_Contextuales_CRISC](https://github.com/eoherrera/EJD_UMA_003_Variables_Contextuales_CRISC) | Variables contextuales CRISC en aprendizaje federado |
 
 ---
 
