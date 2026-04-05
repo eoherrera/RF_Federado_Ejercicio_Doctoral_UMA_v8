@@ -145,12 +145,12 @@ Esto no es un error en el código, pero sí es una limitación del diseño de la
 |--------|-------------|---------|
 | 1 | Cómo se distribuyen los datos entre nodos (Dirichlet) | v6.0 |
 | 2 | Qué tan distintos son los nodos entre sí (Jensen-Shannon) | v7.0 |
-| 3 | Comparativa de F1 entre los tres modelos | v8.0 |
-| 4 | Coherencia declarada vs. entropía ejecutada, con tamaño proporcional a V_i | v7.0 actualizada |
-| 5 | Huella de cada nodo en cinco dimensiones (radar) | v7.0 actualizada |
-| 6 | Cómo cambiaron V_i, L_a, J y CMM en cada ronda | v8.0 |
-| 7 | Mapa de veracidad: dónde cae cada nodo según su ICC y su V_i | v8.0 |
-| 8 | Cadena causal desde las señales adversarias hasta la detección del drift | v7.1 actualizada |
+| 3 | Cómo cambiaron V_i, L_a, J y CMM en cada ronda de entrenamiento | v8.0 |
+| 4 | Mapa de veracidad: dónde cae cada nodo según su ICC y su V_i | v8.0 |
+| 5 | Comparativa de F1 entre los tres modelos | v8.0 |
+| 6 | Coherencia declarada vs. entropía ejecutada, tamaño proporcional a V_i | v7.0 actualizada |
+| 7 | Huella de cada nodo en cinco dimensiones (radar) | v7.0 actualizada |
+| 8 | Cadena causal desde las señales adversarias hasta la pregunta abierta | v7.1 actualizada |
 
 ---
 
