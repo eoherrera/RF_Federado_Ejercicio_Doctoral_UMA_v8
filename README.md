@@ -180,7 +180,6 @@ Eso queda como la siguiente linea natural de investigacion doctoral. Este ejerci
 | EJD-UMA-001 v8.0 | Este repositorio | Fed-TRUST: Coeficiente de Veracidad V_i y agregacion ponderada |
 | EJD-UMA-002 | [TED_MDS_Ejercicio_Doctoral_UMA](https://github.com/eoherrera/TED_MDS_Ejercicio_Doctoral_UMA) | Tree Edit Distance y proyeccion MDS |
 | EJD-UMA-003 | [EJD_UMA_003_NaiveBayes_Federado](https://github.com/eoherrera/EJD_UMA_003_NaiveBayes_Federado) | Clasificador Naive Bayes Federado con mezcla de distribuciones |
-| EJD-UMA-003 v7.1 | [EJD_UMA_003_Variables_Contextuales_CRISC](https://github.com/eoherrera/EJD_UMA_003_Variables_Contextuales_CRISC) | Variables contextuales CRISC en aprendizaje federado |
 
 ---
 
