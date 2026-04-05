@@ -7,7 +7,6 @@
 |-------|---------|
 | Autor | Ing. Edgar O. Herrera Logroño, M.Sc. |
 | Directores propuestos | Prof. Ezequiel López Rubio · Prof. Juan Miguel Ortiz de Lazcano |
-| Colaboración estratégica | Prof. Carmen Fernández-Gago, NICS Lab |
 | Dataset | NSL-KDD (Network Security Lab, Dalhousie University) |
 | Versión | 8.0 Fed-TRUST |
 | Fecha | Abril 2026 |
@@ -73,7 +72,7 @@ flowchart TD
 |---------|-------|---------------|
 | v6.0 | Ene 2026 | Pipeline base con Random Forest federado y NSL-KDD |
 | v7.0 | Feb 2026 | Variables de contexto CRISC: madurez (CMM), cobertura (KCI) y efectividad (FCI) de controles |
-| v7.1 | Mar 2026 | Taxonomía de amenazas, dos figuras nuevas y preguntas abiertas hacia la línea de la Prof. Gago |
+| v7.1 | Mar 2026 | Taxonomía de amenazas, dos figuras nuevas y preguntas abiertas de investigación |
 | v8.0 | Abr 2026 | Fed-TRUST: Coeficiente de Veracidad V_i, variables que cambian por ronda, comparativa de tres modelos |
 
 ---
@@ -159,7 +158,7 @@ Esto no es un error en el código, pero sí es una limitación del diseño de la
 
 Una vez que V_i existe como indicador por ronda, surge una pregunta que no tiene respuesta todavía: ¿es posible detectar que un nodo está empezando a degradarse antes de que eso afecte el rendimiento del modelo global, y sin centralizar los datos de nadie?
 
-Eso es exactamente lo que investiga el NICS Lab en gobernanza de IA y detección de anomalías en sistemas distribuidos. Este ejercicio no resuelve esa pregunta, pero sí la formula de forma concreta y con datos reales.
+Eso queda como la siguiente linea natural de investigacion doctoral. Este ejercicio no resuelve esa pregunta, pero sí la formula de forma concreta y con datos reales.
 
 ---
 
